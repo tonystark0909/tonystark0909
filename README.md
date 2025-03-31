@@ -9,10 +9,11 @@
 ---
 
 ## 🚀 About Me:
-- 💻 Passionate about Cybersecurity, Ethical Hacking & Full-Stack Development.
-- 🚀 Experienced in Python, JavaScript, and Networking.
-- 🤝 Open to collaborations and innovative projects.
-- ⚡ Fun fact: I love solving CTF challenges!
+🔹 Passionate about technology, cybersecurity and building innovative solutions.
+
+🔹 Constantly learning and exploring new technologies.
+
+🔹 Open to collaborations and exciting projects.
 
 ---
 
@@ -41,9 +42,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🔥 Dynamic Contribution Graph
 <p align="center">
-  <img src="https://github.com/tonystark0909/tonystark0909/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonystark0909&bg_color=0d1117&color=ff7700&line=ff7700&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -55,15 +56,13 @@
 
 ---
 
-## 🔥 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tonystark0909&limit=5&theme=tokyonight" width="60%" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tonystark0909&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 🎭 Fun Fact:
-- I love experimenting with new technologies & exploring cyber threats!
+- I am Iron Man!
 
 ---
 
