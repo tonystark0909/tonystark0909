@@ -24,14 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonystark0909&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&custom_title=My+GitHub+Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonystark0909&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark0909&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tonystark0909&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tonystark0909&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonystark0909&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
